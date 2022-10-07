@@ -6,7 +6,7 @@ body {
 }
 
 #hero {
-    background-image: url("/images/giphy.gif");
+    background-image: url("giphy.gif");
     background-size: cover;
     padding: 10px 100px 500px 100px; 
 }
